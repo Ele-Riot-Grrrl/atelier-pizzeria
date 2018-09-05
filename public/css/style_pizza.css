@@ -1,0 +1,27 @@
+body {
+  background-color: #F7F8E0;
+}
+
+h1 {
+  color: #FF0000;
+}
+
+a {
+  color: #0B6121;
+}
+table
+{
+   border-style: double;
+    width: 40em;
+
+}
+/*
+td
+{
+    border: 1px solid black;
+}
+th
+{
+    border: 1px solid black;
+}
+*/
